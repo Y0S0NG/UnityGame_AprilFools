@@ -1,0 +1,9 @@
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
