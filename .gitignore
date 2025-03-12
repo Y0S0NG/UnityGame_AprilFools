@@ -1,9 +1,30 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.csproj
+*.vbproj
+*.sln
+*.pdb
+*.vshost.exe
+*.vshost.exe.manifest
+
+# Typical Unity ignores
 /Library/
 /Temp/
 /Logs/
-/UserSettings/
+/obj/
 *.csproj
 *.unityproj
 *.sln
 *.user
 *.userprefs
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.tmp
+*.user
+*.unityproj
+*.blend~
+*.sln*
